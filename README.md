@@ -50,28 +50,24 @@ Users should be able to:
 
 I've learned how to better use flexbox and how to better manage screen sizes for supporting different devices.
 
-I've also learned how to combine two colors using css properties like ```css
-background-blend-mode
-```.
+I've also learned how to combine two colors using css properties like ```background-blend-mode```.
 
 ```css
-    background-color: var(--clr-dark-blue);
-    background-image: linear-gradient(var(--clr-very-dark-blue) 0 0);
-    background-blend-mode: exclusion;
+background-color: var(--clr-dark-blue);
+background-image: linear-gradient(var(--clr-very-dark-blue) 0 0);
+background-blend-mode: exclusion;
 ```
 
-I've also learned a new way to style list items and images, with the circular background using the ```css
-line-height
-``` trick.
+I've also learned a new way to style list items and images, with the circular background using the ```line-height``` trick.
 
 ```css
-    .rating-list li {
-        width: 2.5em;
-        height: 2.5em;
-        line-height: 2.5em;
-        text-align: center;
-        border-radius: 50%;
-    }
+.rating-list li {
+    width: 2.5em;
+    height: 2.5em;
+    line-height: 2.5em;
+    text-align: center;
+    border-radius: 50%;
+}
 ```
 
 ### Continued development
