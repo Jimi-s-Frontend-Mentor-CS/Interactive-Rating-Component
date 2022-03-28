@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [See the demo on Github Pages](https://jimiit92.github.io/Interactive-Rating-Component/)
+- Live Site URL: [See the demo on Github Pages](https://jimi-s-frontend-mentor-cs.github.io/Interactive-Rating-Component/)
 
 ## My process
 
